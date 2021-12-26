@@ -10,5 +10,5 @@ def toplam(a,b):
 
 
 
-sonuc = toplam(10,20)
+sonuc = toplam(110,20)
 print(sonuc)
