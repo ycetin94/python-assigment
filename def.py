@@ -1,9 +1,9 @@
-# def myfunc(a,b):
-#     return a + b
+def myfunc(a,b):
+    return a + b
 
-# sonuc= myfunc(5,3)
+sonuc= myfunc(5,3)
 
-# print(sonuc)
+print(sonuc)
 
 def toplam(a,b):
     return a + b
